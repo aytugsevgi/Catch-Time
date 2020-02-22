@@ -15,9 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Catch-Time Screenshots
-                           | 
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+<img src="images/ss1.jpeg" width="425"/> <img src="images/ss2.jpeg" width="425"/>
+
+
 
 ![ss1](images/ss1.jpeg)  |  ![ss2](images/ss2.jpeg)
 
