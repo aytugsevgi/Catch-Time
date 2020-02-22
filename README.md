@@ -15,9 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Catch-Time Screenshots
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![ss1](images/ss1.jpeg)  |  ![ss2](images/ss2.jpeg)
 
-![ss1](images/ss1.jpeg)
-![ss2](images/ss2.jpeg)
-![ss3](images/ss3.jpeg)
+![ss3](images/ss3.jpeg)  |  ![ss4](images/ss4.jpeg)
 ![ss4](images/ss4.jpeg)
+
 ![ss5](images/ss5.jpeg)
